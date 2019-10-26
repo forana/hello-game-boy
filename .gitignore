@@ -1,0 +1,7 @@
+.vscode
+bgb*
+*.gb
+*.gbc
+*.lst
+*.map
+*.o
